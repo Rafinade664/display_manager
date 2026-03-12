@@ -24,6 +24,7 @@
     <ProjectGuid>{c8884ed7-788b-43de-82d9-905632256cf2}</ProjectGuid>
     <RootNamespace>ChangeMyScreen</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Display Manager</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
